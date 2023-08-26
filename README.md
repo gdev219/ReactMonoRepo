@@ -1,0 +1,2 @@
+# ReactMonoRepo
+React MonoRepo. template
